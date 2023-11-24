@@ -1,0 +1,47 @@
+header{
+    background-color: linear-gradient(to top #ffc017 25%, white 75% ) 
+}
+
+
+#container {
+        display: flex;
+    justify-content: space-around;
+} 
+#container1 {
+    align-items: center;
+}
+#container2 {
+    display: flex;
+    padding-left: 500px;
+}
+.space {
+    padding-right:50px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.a1 {
+    background-color: black;
+    color: white;
+}
+#firstSpace {
+    display:flex;
+}
+.bordIcon {
+        width: 15px;
+        float: left;
+        border-radius: 15px;
+    
+}
+
+.bordIcon2 {
+    width: 30px;
+    float: left;
+    border-radius: 15px;
+}
+#section2 {
+    display:flex;
+    flex-direction: column;
+}
